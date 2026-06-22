@@ -32,11 +32,12 @@ focus:
   - Bare-metal infrastructure
   - Quantitative trading systems
   - Infrastructure automation
-location: France 🇫🇷
+location: Switzerland 🇨🇭
 currently_building:
   - Private prod-grade infra (check the activity graph 👀)
   - Quant trading algorithms
-coffee_to_code_ratio: dangerously high ☕
+coffee_to_code_ratio: Null
+tea_to_code_ratio: Medium
 ```
 
 ---
@@ -95,29 +96,41 @@ coffee_to_code_ratio: dangerously high ☕
 
 </details>
 
-<details>
-<summary><b>📊 Observability · 🌐 Networking · 💾 Databases · 🐧 Systems · 🔒 Security</b></summary>
+<details open>
+<summary><b>📊 Observability & Monitoring</b></summary>
 <br>
-
-**Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-%23005571.svg?style=for-the-badge&logo=elastic-stack&logoColor=white)
 
-**Ingress & Messaging**
+</details>
 
-![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=for-the-badge&logo=traefik&logoColor=white)
+<details open>
+<summary><b>🌐 Ingress & Messaging</b></summary>
+<br>
+
+![HAProxy](https://img.shields.io/badge/HAProxy-%23106DA9.svg?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=for-the-badge&logo=traefik&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Databases**
+</details>
+
+<details open>
+<summary><b>💾 Databases</b></summary>
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Operating Systems**
+</details>
+
+<details open>
+<summary><b>🐧 Operating Systems</b></summary>
+<br>
 
 ![RHEL](https://img.shields.io/badge/RHEL-%23EE0000.svg?style=for-the-badge&logo=red-hat&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-%23F44336.svg?style=for-the-badge&logo=almalinux&logoColor=white)
@@ -126,12 +139,11 @@ coffee_to_code_ratio: dangerously high ☕
 ![Talos Linux](https://img.shields.io/badge/Talos_Linux-%23FF7300.svg?style=for-the-badge&logo=talos&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-**Languages & Web3**
+</details>
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Ethereum EVM](https://img.shields.io/badge/Ethereum_EVM-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-
-**Security & IAM**
+<details open>
+<summary><b>🔒 Security & IAM</b></summary>
+<br>
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-%231966A0.svg?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Dex](https://img.shields.io/badge/Dex-%23546E7A.svg?style=for-the-badge&logo=auth0&logoColor=white)
@@ -147,7 +159,6 @@ coffee_to_code_ratio: dangerously high ☕
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinios-devops&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinios-devops&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&count_private=true" />
 
 </div>
 
@@ -158,20 +169,6 @@ coffee_to_code_ratio: dangerously high ☕
 > 💡 Private contributions are enabled — the activity graph reflects the full picture.
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinios-devops/sinios-devops/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinios-devops/sinios-devops/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sinios-devops/sinios-devops/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚙️ _To activate the snake: add a GitHub Actions workflow to your profile repo that generates the SVG. See [Platane/snk](https://github.com/Platane/snk) for setup._
 
 ---
 
