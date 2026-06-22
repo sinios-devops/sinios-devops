@@ -49,11 +49,13 @@ tea_to_code_ratio: Medium
 <br>
 
 ![OpenStack](https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat-openshift&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-%23D50C22.svg?style=for-the-badge&logo=hetzner&logoColor=white)
 ![KubeVirt](https://img.shields.io/badge/KubeVirt-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-%23F05133.svg?style=for-the-badge&logo=ceph&logoColor=white)
+![Longhorn](https://img.shields.io/badge/Longhorn-%236C3082.svg?style=for-the-badge&logo=longhorn&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
+![RustFS](https://img.shields.io/badge/RustFS-%23000000.svg?style=for-the-badge&logo=rustfs&logoColor=white)
 
 </details>
 
@@ -77,7 +79,7 @@ tea_to_code_ratio: Medium
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-%23FF5733.svg?style=for-the-badge&logo=opentofu&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Renovate](https://img.shields.io/badge/Renovate-%23308BE3.svg?style=for-the-badge&logo=renovatebot&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-%23308BE3.svg?style=for-the-badge&logo=renovate&logoColor=white)
 
 </details>
 
@@ -112,7 +114,7 @@ tea_to_code_ratio: Medium
 
 ![HAProxy](https://img.shields.io/badge/HAProxy-%23106DA9.svg?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=for-the-badge&logo=traefik&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
